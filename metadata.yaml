@@ -1,0 +1,35 @@
+_repo: World-of-Mockery_61904
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lynch, Don (Artist)
+    gutenberg_agent_id: '51621'
+    url: http://www.gutenberg.org/2009/agents/51621
+creator:
+  author:
+    agent_name: Moskowitz, Sam
+    alias: Moskowitz, Samuel Martin
+    birthdate: 1920
+    deathdate: 1997
+    gutenberg_agent_id: '51669'
+    url: http://www.gutenberg.org/2009/agents/51669
+    wikipedia: https://en.wikipedia.org/wiki/Sam_Moskowitz
+description: ''
+gutenberg_issued: '2020-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Ganymede (Satellite) -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Castaways -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: World of Mockery
+url: http://www.gutenberg.org/ebooks/61904
